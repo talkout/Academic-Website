@@ -31,3 +31,4 @@ weight = 5
 # Biography
 
 Self: Still a work in progress, always!
+[ICT 41203 Operating Systems]{{< ref "ICT41203.md" >}}
