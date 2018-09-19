@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-## Undergraduate Courses - Faculty of Technology, University of Sri Jayewardenepura
+## Undergraduate Courses - Faculty of Technology
 
 - ICT 41203 Operating Systems
 
