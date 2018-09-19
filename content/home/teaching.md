@@ -17,5 +17,6 @@ weight = 60
 
 Undergraduate Courses - Faculty of Technology
 
-- ICT 41203 Operating Systems
-- ICT 41205 Digital Control Systems
+- [ICT 41203 Operating Systems]{{< ref "ICT41203.md" >}}
+
+- ICT 41205 Digital Control System
