@@ -274,15 +274,23 @@ enableGitInfo = false
 #  url = "#posts"
 #  weight = 3
 
-[[menu.main]]
-  name = "ICT 41203 Operating Systems"
-  url = "ICT41203.md"
-  weight = 4
+
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
   weight = 5
+  identifier = "teaching"
+
+[[menu.main]]
+  name = "ICT 41203 Operating Systems"
+  url = "ICT41203"
+  parent = "teaching"
+
+[[menu.main]]
+  name = "ICT 41205 Digital Control System"
+  url = "ICT41205"
+  parent = "teaching"
 
 [[menu.main]]
   name = "Contact"
