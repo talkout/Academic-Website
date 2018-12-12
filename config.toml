@@ -58,7 +58,7 @@ enableGitInfo = false
 
   # Your details.
   name = "Nimal Skandhakumar"
-  role = "Lecturer"
+  role = "Senior Lecturer"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -66,10 +66,10 @@ enableGitInfo = false
 
   gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "sjp@nimal.info"
-  address = "Faculty of Technologyy"
+  email = "nimal@sjp.ac.lk"
+  address = "Department of Information and Communication Technology, Faculty of Technology, University of Sri Jayawardenepura, Sri Lanka"
   office_hours = "Monday 10:00 to 12:00 or email for appointment"
-  phone = ""
+  phone = "+94 76 980 4524"
   skype = ""
   telegram = ""
 
@@ -227,7 +227,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:hi@nimal.info"
+    link = "mailto:nimal@sjp.ac.lk"
 
   [[params.social]]
     icon = "twitter"
