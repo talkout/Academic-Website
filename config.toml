@@ -288,8 +288,8 @@ enableGitInfo = false
   parent = "teaching"
 
 [[menu.main]]
-  name = "ICT 41205 Digital Control System"
-  url = "ICT41205"
+  name = "ITC 2292 Digital Control Systems Technology"
+  url = "itc2292"
   parent = "teaching"
 
 [[menu.main]]
