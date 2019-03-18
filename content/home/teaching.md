@@ -17,6 +17,7 @@ weight = 60
 
 Undergraduate Courses - Faculty of Technology
 
-- ICT 41203 Operating Systems
-
-- ICT 41205 Digital Control System
+- Operating Systems
+- Digital Control Systems Technology
+- Advanced Networking
+- Audio Production Techniques
