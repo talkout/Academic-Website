@@ -286,13 +286,18 @@ enableGitInfo = false
   identifier = "teaching"
 
 [[menu.main]]
-  name = "ICT 41203 Operating Systems"
-  url = "ICT41203"
+  name = "ITC 2292 Digital Control Systems Technology"
+  url = "itc2292"
   parent = "teaching"
 
 [[menu.main]]
-  name = "ITC 2292 Digital Control Systems Technology"
-  url = "itc2292"
+  name = "ITM 3062 Audio Production Techniques"
+  url = "ITM3062"
+  parent = "teaching"
+
+[[menu.main]]
+  name = "ITN 3052 Advanced Networking"
+  url = "ITN3052"
   parent = "teaching"
 
 [[menu.main]]
