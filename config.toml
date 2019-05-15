@@ -301,6 +301,11 @@ enableGitInfo = false
   parent = "teaching"
 
 [[menu.main]]
+  name = "(KDU) EE5182 Microcontrollers & Embedded Systems"
+  url = "EE5182"
+  parent = "teaching"
+
+[[menu.main]]
   name = "Contact"
   url = "#contact"
   weight = 6
