@@ -8,7 +8,7 @@ draft = false
 
 [menu]
 
-  [menu.example]
+  [menu.ITC2292]
   parent = "ITC2292"
   weight = 1.0
 
