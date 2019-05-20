@@ -1,11 +1,13 @@
 ---
 # Course title, summary, and position.
 linktitle: ITC 2292
-summary: igital Control Systems Technology
+summary: Digital Control Systems Technology
 weight: 1
 
 # Page metadata.
-title = "ITC 2292 Digital Control Systems Technology"
+title: ITC 2292 Digital Control Systems Technology
+#date: "2018-09-09T00:00:00Z"
+#lastmod: "2018-09-09T00:00:00Z"
 draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -15,7 +17,7 @@ type: docs  # Do not modify.
 # - weight: Position of link in menu.
 menu:
   ITC2292:
-    name: Overview
+    name: ITC2292
     weight: 1
 ---
 
