@@ -1,10 +1,23 @@
-+++
-title = "ITC 2292 Digital Control Systems Technology"
+---
+# Course title, summary, and position.
+linktitle: ITC 2292
+summary: igital Control Systems Technology
+weight: 1
 
-# [header]
-# image = ""
-# caption = ""
-+++
+# Page metadata.
+title = "ITC 2292 Digital Control Systems Technology"
+draft: false  # Is this a draft? true/false
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.
+
+# Add menu entry to sidebar.
+# - name: Declare this menu item as a parent with ID `name`.
+# - weight: Position of link in menu.
+menu:
+  ITC2292:
+    name: Overview
+    weight: 1
+---
 
 ## Course Information
 The lecture and office hours are shown below:
