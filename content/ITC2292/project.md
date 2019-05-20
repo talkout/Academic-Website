@@ -1,7 +1,8 @@
 ---
 title: Group Project
 linktitle: Project
-toc: true
+summary: Digital Control Systems Technology Project
+toc: false
 type: docs
 draft: false
 menu:
