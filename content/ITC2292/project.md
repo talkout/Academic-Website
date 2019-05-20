@@ -16,13 +16,24 @@ weight: 1
 
 ## Building a Digital Control System
 
-An assignment has been posted for the submission of Preliminary Project Proposals. Guidelines on the required format and other details are provided with the assignment under the Materials tab. One member can submit on-behalf of the group. Please pay attention to the following and if there are any concerns raise them asap.
+An assignment has been posted for the submission of Preliminary Project Proposals. One member can submit on-behalf of the group. Please pay attention to the following and if there are any concerns raise them asap.
 
 ### Expected Outcome:
 Building a closed-loop control system using Arduino Uno as the base hardware for the controller.
 
 ### Project Scope:
 The selection of a particular project should be bound by available resources and time.
+
+### Resources:
+The list of available tools as listed in the attached parts list. If you require any additional components, you will have to discuss that with the lecturer.
+
+### Preliminary Project Proposal:
+You are required to submit a preliminary project proposal to screen for suitability of the project against the course requirements. You are advised to adhere to the format below:
+
+ - Project Title
+ - List of students in the groups
+ - Description of the build (explain how it is a closed-loop control system in 1-2 paragraphs)
+ - Any additional requirements
 
 ### Deadline for Preliminary Project Proposal:
 Before next practical class. We will be discussing each proposal with the group at the next practical class.
