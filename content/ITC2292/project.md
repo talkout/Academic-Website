@@ -14,7 +14,7 @@ menu:
 weight: 1
 ---
 
-Group Project - Building a Digital Control System
+## Group Project - Building a Digital Control System
 
 An assignment has been posted for the submission of Preliminary Project Proposals. Guidelines on the required format and other details are provided with the assignment under the Materials tab. One member can submit on-behalf of the group. Please pay attention to the following and if there are any concerns raise them asap.
 
