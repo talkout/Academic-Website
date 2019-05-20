@@ -1,6 +1,6 @@
 ---
 title: Group Project
-linktitle: Project
+linktitle: ITC 2292 Group Project
 summary: Building a Digital Control System
 toc: false
 type: docs
@@ -25,7 +25,7 @@ The selection of a particular project should be bound by available resources and
 The list of available tools as listed in the attached parts list. If you require any additional components, you will have to discuss that with the lecturer.
 
 ## Project Groups: 
-You may check of this page and verify [your group selections](https://docs.google.com/spreadsheets/d/e/2PACX-1vQHzENmYbbL2wanavVyk-n8cqKGkooyKLTyDUk7R6MerJqBUURedgWMcZUL5zDg6GBHzEiWZXKrmVtH/pubhtml?gid=0&single=true). If your index number is listed with a "No Group" that means you did not provide your index number with you name lists or you didn't send a group selection at all. If you are not assigned a group, please contact me immediately via (nimal@sjp.ac.lk).
+You may check of this page and verify [your group selections](https://docs.google.com/spreadsheets/d/e/2PACX-1vQHzENmYbbL2wanavVyk-n8cqKGkooyKLTyDUk7R6MerJqBUURedgWMcZUL5zDg6GBHzEiWZXKrmVtH/pubhtml?gid=0&single=true). If your index number is listed with a "No Group" that means you did not provide your index number with you name lists or you didn't send a group selection at all. If you are not assigned a group, please contact me immediately via nimal@sjp.ac.lk.
 
 ## Preliminary Project Proposal:
 You are required to submit a preliminary project proposal to screen for suitability of the project against the course requirements. You are advised to adhere to the format below:
@@ -35,10 +35,7 @@ You are required to submit a preliminary project proposal to screen for suitabil
  - Description of the build (explain how it is a closed-loop control system in 1-2 paragraphs)
  - Any additional requirements
  
-An assignment has been posted for the [submission of Preliminary Project Proposals](http://lms.tech.sjp.ac.lk/mod/assign/view.php?id=165). One member can submit on-behalf of the group. Please pay attention to the following and if there are any concerns raise them asap.
+An assignment has been posted for the [submission of Preliminary Project Proposals](http://lms.tech.sjp.ac.lk/mod/assign/view.php?id=165). One member can submit on-behalf of the group. Please pay attention to the above guidelines and if there are any concerns raise them asap.
 
 ### Deadline for Preliminary Project Proposal:
 Before next practical class. We will be discussing each proposal with the group at the next practical class.
-
-
-
