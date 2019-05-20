@@ -2,7 +2,7 @@
 title: Group Project
 linktitle: ITC 2292 Group Project
 summary: Building a Digital Control System
-toc: false
+toc: true
 type: docs
 draft: false
 menu:
