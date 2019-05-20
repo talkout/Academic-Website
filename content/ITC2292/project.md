@@ -1,18 +1,17 @@
-+++
-title = "Group Project"
-linktitle = "Project"
-toc = true
-type = "docs"
-date = "2019-05-05T00:00:00Z"
-draft = false
+---
+title: Group Project
+linktitle: Project
+toc: true
+type: docs
+draft: false
+menu:
+  ITC2292:
+    parent: ITC2292
+    weight: 1
 
-[menu]
-
-  [menu.ITC2292]
-  parent = "ITC2292"
-  weight = 1.0
-
-+++
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 1
+---
 
 Group Project - Building a Digital Control System
 
