@@ -38,3 +38,4 @@ Slides will be posted before the lecture.
 - Lecture 01 - {{% staticref "files/ITC2292_01_Introduction.pdf" %}}Introduction{{% /staticref %}}
 - Lecture 02 - {{% staticref "files/ITC2292_02_Electronics.pdf" %}}Basic Electronics{{% /staticref %}}
 - Lecture 03 - {{% staticref "files/ITC2292_03_Feedback_Control_System_Design_1.pdf" %}}Feedback Control System Design{{% /staticref %}}
+- Lecture 04 - {{% staticref "files/ITC2292_04_PID_Control.pdf" %}}PID Control{{% /staticref %}}
