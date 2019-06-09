@@ -39,3 +39,4 @@ Slides will be posted before the lecture.
 - Lecture 02 - {{% staticref "files/ITC2292_02_Electronics.pdf" %}}Basic Electronics{{% /staticref %}}
 - Lecture 03 - {{% staticref "files/ITC2292_03_Feedback_Control_System_Design_1.pdf" %}}Feedback Control System Design{{% /staticref %}}
 - Lecture 04 - {{% staticref "files/ITC2292_04_PID_Control.pdf" %}}PID Control{{% /staticref %}}
+- Lecture 05 - {{% staticref "files/ITC2292_05_Analog_Digital.pdf" %}}Conversion Principles and Circuits{{% /staticref %}}
