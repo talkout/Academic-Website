@@ -42,4 +42,7 @@ Slides will be posted before the lecture.
 - Lecture 05 - {{% staticref "files/ITC2292_05_Analog_Digital.pdf" %}}Conversion Principles and Circuits{{% /staticref %}}
 - Lecture 06 - {{% staticref "files/ITC2292_06_DSP.pdf" %}}Digital Signal Processing{{% /staticref %}}
 - Lecture 07 - {{% staticref "files/ITC2292_07_Hardware_Software_Codesign.pdf" %}}Hardware Software Codesign{{% /staticref %}}
+- Lecture 08 - {{% staticref "files/ITC2292_08_Components.pdf" %}}Components of Digital Control Systems{{% /staticref %}}
+- Lecture 09 - {{% staticref "files/ITC2292_09_Communication.pdf" %}}Communication{{% /staticref %}}
+- Lecture 10 - {{% staticref "files/ITC2292_10_Design.pdf" %}}Creative Thinking in System Design{{% /staticref %}}
 
