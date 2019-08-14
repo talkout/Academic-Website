@@ -30,4 +30,4 @@ weight = 5
 
 # Biography
 
-Self: Still a work in progress, always!
+Self: a work in progress, always!
