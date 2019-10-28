@@ -20,4 +20,10 @@ Undergraduate Courses - Faculty of Technology
 - Operating Systems
 - Digital Control Systems Technology
 - Advanced Networking
+- Distributed Networks
 - Audio Production Techniques
+
+Undergraduate Courses - Visiting
+
+- Fundamentals of Security Technology
+- Microprocessors, Microcontrollers, and Embedded Systems
