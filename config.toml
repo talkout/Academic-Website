@@ -310,9 +310,15 @@ enableGitInfo = false
   parent = "teaching"
 
 [[menu.main]]
-  name = "(KDU) EE5182 Microcontrollers & Embedded Systems"
+  name = "ITN 3162 Distributed Networks"
+  url = "ITN3162"
+  weight = 6
+  parent = "teaching"
+
+[[menu.main]]
+  name = "EE5182 Microcontrollers & Embedded Systems (KDU)"
   url = "EE5182"
-  weight = 5
+  weight = 6
   parent = "teaching"
 
 [[menu.main]]
