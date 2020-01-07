@@ -312,7 +312,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "ITN 3162 Distributed Networks"
   url = "ITN3162"
-  weight = 6
+  weight = 5
   parent = "teaching"
 
 [[menu.main]]
