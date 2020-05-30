@@ -309,27 +309,39 @@ enableGitInfo = false
   parent = "teaching"
 
 [[menu.main]]
-  name = "ITM 3062 Audio Production Techniques"
-  url = "ITM3062"
-  weight = 5
-  parent = "teaching"
-
-[[menu.main]]
   name = "ITN 3162 Distributed Networks"
   url = "ITN3162"
   weight = 4
   parent = "teaching"
 
 [[menu.main]]
+  name = "ITM 3062 Audio Production Techniques"
+  url = "ITM3062"
+  weight = 5
+  parent = "teaching"
+
+[[menu.main]]
+  name = "ICTC3105.3 Platform Technologies"
+  url = "ICTC31053"
+  weight = 7
+  parent = "teaching"
+
+[[menu.main]]
+  name = "SE2203 Computer Architecture"
+  url = "SE2203"
+  weight = 8
+  parent = "teaching"
+
+[[menu.main]]
   name = "EE5182 Microcontrollers & Embedded Systems (KDU)"
   url = "EE5182"
-  weight = 6
+  weight = 9
   parent = "teaching"
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 6
+  weight = 11
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
