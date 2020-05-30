@@ -18,7 +18,7 @@ organizations:
   url: "http://tech.sjp.ac.lk/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Self: a work in progress, always!	
+bio: "Self: a work in progress, always!"
 
 interests:
 - Information Security
