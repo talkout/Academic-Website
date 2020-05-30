@@ -1,0 +1,75 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "Home"
+  url = "#about"
+  weight = 10
+
+[[main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 20
+  identifier = "teaching"
+
+[[main]]
+  name = "ITC 2272 Operating Systems"
+  url = "ITC2272"
+  weight = 21
+  parent = "teaching"
+
+[[main]]
+  name = "ITC 2292 Digital Control Systems Technology"
+  url = "ITC2292"
+  weight = 22
+  parent = "teaching"
+
+[[main]]
+  name = "ITN 3052 Advanced Networking"
+  url = "ITN3052"
+  weight = 23
+  parent = "teaching"
+
+[[main]]
+  name = "ITN 3162 Distributed Networks"
+  url = "ITN3162"
+  weight = 24
+  parent = "teaching"
+
+[[main]]
+  name = "ITM 3062 Audio Production Techniques"
+  url = "ITM3062"
+  weight = 25
+  parent = "teaching"
+
+[[main]]
+  name = "ICTC3105.3 Platform Technologies"
+  url = "ICTC31053"
+  weight = 41
+  parent = "teaching"
+
+[[main]]
+  name = "SE2203 Computer Architecture"
+  url = "SE2203"
+  weight = 42
+  parent = "teaching"
+
+[[main]]
+  name = "EE5182 Microcontrollers & Embedded Systems (KDU)"
+  url = "EE5182"
+  weight = 43
+  parent = "teaching"
+
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 50
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 70
