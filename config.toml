@@ -309,27 +309,21 @@ enableGitInfo = false
   parent = "teaching"
 
 [[menu.main]]
-  name = "ITN 3162 Distributed Networks"
-  url = "ITN3162"
-  weight = 4
-  parent = "teaching"
-
-[[menu.main]]
   name = "ITM 3062 Audio Production Techniques"
   url = "ITM3062"
   weight = 5
   parent = "teaching"
 
 [[menu.main]]
-  name = "SE2203 Computer Architecture"
-  url = "CA"
-  weight = 6
+  name = "ITN 3162 Distributed Networks"
+  url = "ITN3162"
+  weight = 4
   parent = "teaching"
 
 [[menu.main]]
   name = "EE5182 Microcontrollers & Embedded Systems (KDU)"
   url = "EE5182"
-  weight = 7
+  weight = 6
   parent = "teaching"
 
 [[menu.main]]
