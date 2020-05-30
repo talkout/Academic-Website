@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2020-05-31T00:00:00+05:30
 
 # Order that this section will appear in.
 weight = 5
@@ -12,18 +12,19 @@ weight = 5
   interests = [
     "Information Security",
     "Access Control",
-    "Cyber Security"
+    "Cyber Security",
+	"Networking"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Information Security"
-  institution = "Queensland University of Technology"
+  institution = "Queensland University of Technology, Australia"
   year = 2014
 
 [[education.courses]]
   course = "BSc Eng in Computer Science and Engineering"
-  institution = "University of Moratuwa"
+  institution = "University of Moratuwa, Sri Lanka"
   year = 2009
  
 +++

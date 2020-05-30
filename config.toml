@@ -230,14 +230,19 @@ enableGitInfo = false
     link = "mailto:nimal@sjp.ac.lk"
 
   [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fab"
+    link = "//www.linkedin.com/in/nimalaprakasan"
+
+  [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
     link = "//twitter.com/talkout"
 
   [[params.social]]
-    icon = "linkedin"
+    icon = "youtube"
     icon_pack = "fab"
-    link = "//www.linkedin.com/in/nimalaprakasan"
+    link = "//youtube.com/talkout"
 
   [[params.social]]
     icon = "google-scholar"
