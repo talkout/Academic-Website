@@ -87,15 +87,6 @@ show_related = {docs = false, page = false, post = false, project = false, publi
 ## Additionally, for organizations, these details may be used to enrich search engine results.
 ############################
 
-  # Your details.
-  name = "Nimal Skandhakumar"
-  role = "Senior Lecturer"
-
-  # Organizations/Affiliations.
-  #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ {name="Faculty of Technology", url="http://tech.sjp.ac.lk/"}, {name = "University of Sri Jayewardenepura", url = "https://www.sjp.ac.lk/"} ]
-
-
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "nimal@sjp.ac.lk"
 phone = "+94 76 980 4524"
