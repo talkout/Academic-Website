@@ -138,31 +138,6 @@ sharing_image = ""
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
 twitter = "talkout"
 
-  [[social]]
-    icon = "envelope"
-    icon_pack = "fas"
-    link = "mailto:nimal@sjp.ac.lk"
-
-  [[social]]
-    icon = "linkedin"
-    icon_pack = "fab"
-    link = "//www.linkedin.com/in/nimalaprakasan"
-
-  [[social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "//twitter.com/talkout"
-
-  [[social]]
-    icon = "youtube"
-    icon_pack = "fab"
-    link = "//youtube.com/talkout"
-
-  [[social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "//scholar.google.com/citations?user=H0twqLkAAAAJ&hl=en"
-
 ############################
 ## Regional Settings
 ############################

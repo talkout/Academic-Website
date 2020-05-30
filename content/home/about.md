@@ -1,34 +1,14 @@
 +++
-# About/Biography widget.
-widget = "about"
-active = true
-date = 2020-05-31T00:00:00+05:30
+# About widget.
+widget = "about"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 20  # Order that this section will appear in.
 
-# Order that this section will appear in.
-weight = 5
+title = "Biography"
 
-# List your academic interests.
-[interests]
-  interests = [
-    "Information Security",
-    "Access Control",
-    "Cyber Security",
-	"Networking"
-  ]
-
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Information Security"
-  institution = "Queensland University of Technology, Australia"
-  year = 2014
-
-[[education.courses]]
-  course = "BSc Eng in Computer Science and Engineering"
-  institution = "University of Moratuwa, Sri Lanka"
-  year = 2009
- 
+# Choose the user profile to display
+# This should be the username of a profile in your `content/authors/` folder.
+# See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
+author = "admin"
 +++
-
-# Biography
-
-Self: a work in progress, always!
