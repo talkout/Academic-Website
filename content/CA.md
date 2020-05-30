@@ -35,16 +35,16 @@ You can provide continuous feedback on lectures, subject matters and performance
 ## Lecture Slides
 (Slides will be posted before the lecture.)
 
-- Lecture 01 - {{% staticref "files/CA_01_Introduction.pdf" %}}Introduction{{% /staticref %}}
-- Lecture 02 - {{% staticref "files/CA_02_CPU_Functions.pdf" %}}CPU Functions{{% /staticref %}}
-- Lecture 03 - {{% staticref "files/CA_03_Memory_Hierarchy.pdf" %}}Memory Hierarchy{{% /staticref %}}
-- Lecture 04 - {{% staticref "files/CA_04_Input_Output.pdf" %}}Input/Output{{% /staticref %}}
-- Lecture 05 - {{% staticref "files/CA_05_Interfacing.pdf" %}}Interfacing{{% /staticref %}}
-- Lecture 06 - {{% staticref "files/CA_06_Communication.pdf" %}}Communication{{% /staticref %}}
-- Lecture 07 - {{% staticref "files/CA_07_Instruction_Set_Architecture.pdf" %}}Instruction Set Architecture{{% /staticref %}}
-- Lecture 08 - {{% staticref "files/CA_08_Assembly_Language_Programming.pdf" %}}Assembly Language Programming{{% /staticref %}}
-- Lecture 09 - {{% staticref "files/CA_09_Parallel_Processing.pdf" %}}Parallel Processing{{% /staticref %}}
-- Lecture 10 - {{% staticref "files/CA_10_Multicores.pdf" %}}Multicores{{% /staticref %}}
+- Lecture 01 - [Introduction](https://academic.nimal.info/files/CA_01_Introduction.pdf)
+- Lecture 02 - [CPU Functions](https://academic.nimal.info/files/CA_02_CPU_Functions.pdf)
+- Lecture 03 - [Memory Hierarchy](https://academic.nimal.info/files/CA_03_Memory_Hierarchy.pdf)
+- Lecture 04 - [Input/Output](https://academic.nimal.info/files/CA_04_Input_Output.pdf)
+- Lecture 05 - [Interfacing](https://academic.nimal.info/files/CA_05_Interfacing.pdf)
+- Lecture 06 - [Communication](https://academic.nimal.info/files/CA_06_Communication.pdf)
+- Lecture 07 - [Instruction Set Architecture](https://academic.nimal.info/files/CA_07_Instruction_Set_Architecture.pdf)
+- Lecture 08 - [Assembly Language Programming](https://academic.nimal.info/files/CA_08_Assembly_Language_Programming.pdf)
+- Lecture 09 - [Parallel Processing](https://academic.nimal.info/files/CA_09_Parallel_Processing.pdf)
+- Lecture 10 - [Multicores](https://academic.nimal.info/files/CA_10_Multicores.pdf)
 
 
 ## Recommended Text
