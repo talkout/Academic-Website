@@ -35,14 +35,14 @@ You can provide continuous feedback on lectures, subject matters and performance
 ## Lecture Slides
 Slides will be posted before the lecture.
 
-- Lecture 01 - {{% staticref "files/ITC2292_01_Introduction.pdf" %}}Introduction{{% /staticref %}}
-- Lecture 02 - {{% staticref "files/ITC2292_02_Electronics.pdf" %}}Basic Electronics{{% /staticref %}}
-- Lecture 03 - {{% staticref "files/ITC2292_03_Feedback_Control_System_Design_1.pdf" %}}Feedback Control System Design{{% /staticref %}}
-- Lecture 04 - {{% staticref "files/ITC2292_04_PID_Control.pdf" %}}PID Control{{% /staticref %}}
-- Lecture 05 - {{% staticref "files/ITC2292_05_Analog_Digital.pdf" %}}Conversion Principles and Circuits{{% /staticref %}}
-- Lecture 06 - {{% staticref "files/ITC2292_06_DSP.pdf" %}}Digital Signal Processing{{% /staticref %}}
-- Lecture 07 - {{% staticref "files/ITC2292_07_Hardware_Software_Codesign.pdf" %}}Hardware Software Codesign{{% /staticref %}}
-- Lecture 08 - {{% staticref "files/ITC2292_08_Components.pdf" %}}Components of Digital Control Systems{{% /staticref %}}
-- Lecture 09 - {{% staticref "files/ITC2292_09_Communication.pdf" %}}Communication{{% /staticref %}}
-- Lecture 10 - {{% staticref "files/ITC2292_10_Design.pdf" %}}Creative Thinking in System Design{{% /staticref %}}
+- Lecture 01 - [Introduction](https://academic.nimal.info/files/ITC2292_01_Introduction.pdf)
+- Lecture 02 - [Basic Electronics](https://academic.nimal.info/files/ITC2292_02_Electronics.pdf)
+- Lecture 03 - [Feedback Control System Design](https://academic.nimal.info/files/ITC2292_03_Feedback_Control_System_Design_1.pdf)
+- Lecture 04 - [PID Control](https://academic.nimal.info/files/ITC2292_04_PID_Control.pdf)
+- Lecture 05 - [Conversion Principles and Circuits](https://academic.nimal.info/files/ITC2292_05_Analog_Digital.pdf)
+- Lecture 06 - [Digital Signal Processing](https://academic.nimal.info/files/ITC2292_06_DSP.pdf)
+- Lecture 07 - [Hardware Software Codesign](https://academic.nimal.info/files/ITC2292_07_Hardware_Software_Codesign.pdf)
+- Lecture 08 - [Components of Digital Control Systems](https://academic.nimal.info/files/ITC2292_08_Components.pdf)
+- Lecture 09 - [Communication](https://academic.nimal.info/files/ITC2292_09_Communication.pdf)
+- Lecture 10 - [Creative Thinking in System Design](https://academic.nimal.info/files/ITC2292_10_Design.pdf)
 
