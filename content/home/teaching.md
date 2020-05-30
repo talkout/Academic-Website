@@ -16,6 +16,7 @@ weight = 60
 +++
 
 Undergraduate Courses - Faculty of Technology, USJ
+
 - Operating Systems
 - Digital Control Systems Technology
 - Advanced Networking
@@ -23,11 +24,13 @@ Undergraduate Courses - Faculty of Technology, USJ
 - Audio Production Techniques
 
 Undergraduate Courses - Visiting
+
 - Computer Architecture
 - Platform Technologies
 - Microprocessors, Microcontrollers and Embedded Systems
 
 Postgraduate Courses - Visiting
+
 - Fundamentals of Security Technology
 - Cyber Security Threats and Countermeasures
 
