@@ -104,7 +104,7 @@ contact_links = [
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Department of Information and Communication Technology, Faculty of Technology, University of Sri Jayawardenepura", city = "Nugegoda", region = "", postcode = "10350", country = "Sri Lanka", country_code = "LK"}
+address = {street = "Department of Information and Communication Technology, <br/>Faculty of Technology, <br/>University of Sri Jayawardenepura", city = "Nugegoda", region = "", postcode = "10350", country = "Sri Lanka", country_code = "LK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -186,7 +186,7 @@ plugins_js  = []
 
 # Available address formats.
 [address_formats]
-  en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
+  en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', <br/>', ', ', ' ', '']}
   en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
   de = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
   fr-fr = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
