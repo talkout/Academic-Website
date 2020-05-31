@@ -10,7 +10,7 @@ weight = 60  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Teaching"
-subtitle = ""
+subtitle = "Undergraduate & Postgraduate"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

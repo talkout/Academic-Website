@@ -74,4 +74,4 @@ email: "nimal@sjp.ac.lk"
 # - Visitors
 ---
 
-I am a grounded nomad. I love a bit of art and science. #thappillai
+I am a grounded nomad. I love a bit of art and science.
