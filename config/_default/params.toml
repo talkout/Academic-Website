@@ -91,6 +91,17 @@ show_related = {docs = false, page = false, post = false, project = false, publi
 email = "nimal@sjp.ac.lk"
 phone = "+94 76 980 4524"
 
+# Contact links
+#   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
+contact_links = [
+  # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/talkout"},
+  # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  {icon = "whatsapp", icon_pack = "fab", name = "WhatsApp Me", link = "https://wa.me/94769804524?text=Re%20course%20name"},
+  ]
+
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
 address = {street = "Department of Information and Communication Technology, Faculty of Technology, University of Sri Jayawardenepura", city = "Nugegoda", region = "", postcode = "10350", country = "Sri Lanka", country_code = "LK"}
@@ -108,17 +119,6 @@ office_hours = ["Monday 13:00 to 15:00", "Thursday 13:00 to 15:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendar.google.com/calendar/selfsched?sstoken=UU5QSk5qaEExZE5XfGRlZmF1bHR8MDg3Y2Q3NzZkNmE0ODdhZTYwNWViMTNlY2ZmYmQwZmM"
-
-# Contact links
-#   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
-  # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/talkout"},
-  # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  {icon = "whatsapp", icon_pack = "fab", name = "WhatsApp Me", link = "https://wa.me/94769804524?text=Re%20course%20name"},
-  ]
 
 ############################
 ## Social
