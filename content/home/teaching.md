@@ -27,6 +27,7 @@ Undergraduate Courses - Visiting
 
 - Computer Architecture
 - Platform Technologies
+- Microcontrollers and Embedded Systems
 - Microprocessors, Microcontrollers and Embedded Systems
 
 Postgraduate Courses - Visiting

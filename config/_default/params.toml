@@ -104,7 +104,7 @@ address = {street = "Department of Information and Communication Technology, Fac
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 13:00 to 15:00", "Or email for appointment"]
+office_hours = ["Monday 13:00 to 15:00", "Thursday 13:00 to 15:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://calendar.google.com/calendar/selfsched?sstoken=UU5QSk5qaEExZE5XfGRlZmF1bHR8MDg3Y2Q3NzZkNmE0ODdhZTYwNWViMTNlY2ZmYmQwZmM"

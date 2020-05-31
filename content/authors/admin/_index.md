@@ -14,8 +14,10 @@ role: Senior Lecturer
 
 # Organizations/Affiliations
 organizations:
-- name: University of Sri Jayewardenepura
+- name: Faculty of Technology
   url: "http://tech.sjp.ac.lk/"
+- name: University of Sri Jayewardenepura
+  url: "http://www.sjp.ac.lk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -24,6 +26,7 @@ interests:
 - Information Security
 - Access Control
 - Networking
+- IoT
 
 education:
   courses:
@@ -42,18 +45,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:nimal@sjp.ac.lk'  # #contact For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/talkout
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=H0twqLkAAAAJ&hl=en
-- icon: youtube
-  icon_pack: fab
-  link: https://youtube.com/talkout
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/nimalaprakasan
+- icon: youtube
+  icon_pack: fab
+  link: https://youtube.com/talkout
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/talkout
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -71,4 +74,4 @@ email: "nimal@sjp.ac.lk"
 # - Visitors
 ---
 
-Self: a work in progress, always!
+I am a grounded nomad. I love a bit of art and science. #thappillai
