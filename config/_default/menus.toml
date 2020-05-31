@@ -52,7 +52,7 @@
 
 [[main]]
   name = "SE2203 Computer Architecture"
-  url = "SE2203"
+  url = "CA"
   weight = 42
   parent = "teaching"
 
