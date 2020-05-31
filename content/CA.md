@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: SE2203
 summary: Computer Architecture
-weight: 8
+weight: 42
 
 # Page metadata.
 title: SE2203 Computer Architecture
@@ -16,9 +16,9 @@ type: docs  # Do not modify.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  SE2203:
+  teaching:
     name: SE2203
-    weight: 8
+    weight: 42
 ---
 
 ## Course Information
