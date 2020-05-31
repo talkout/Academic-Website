@@ -93,7 +93,7 @@ phone = "+94 76 980 4524"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Department of Information and Communication Technology, Faculty of Technology, University of Sri Jayawardenepura", city = "Nugegoda", region = "WP", postcode = "10350", country = "Sri Lanka", country_code = "LK"}
+address = {street = "Department of Information and Communication Technology, Faculty of Technology, University of Sri Jayawardenepura", city = "Nugegoda", region = "", postcode = "10350", country = "Sri Lanka", country_code = "LK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -104,19 +104,20 @@ address = {street = "Department of Information and Communication Technology, Fac
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday 13:00 to 15:00 or", "Email for Appointment"]
+office_hours = ["Monday 13:00 to 15:00", "Or email for appointment"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-# appointment_url = "https://calendly.com"
+appointment_url = "https://calendar.google.com/calendar/selfsched?sstoken=UU5QSk5qaEExZE5XfGRlZmF1bHR8MDg3Y2Q3NzZkNmE0ODdhZTYwNWViMTNlY2ZmYmQwZmM"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/talkout"},
+  # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/talkout"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+  {icon = "whatsapp", icon_pack = "fab", name = "WhatsApp Me", link = "https://wa.me/94769804524?text=Re%20course%20name"},
   ]
 
 ############################

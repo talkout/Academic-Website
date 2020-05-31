@@ -45,27 +45,27 @@
   parent = "teaching"
 
 [[main]]
-  name = "ICTC3105.3 Platform Technologies"
+  name = "ICTC3105.3 Platform Technologies (FHSS)"
   url = "ICTC31053"
   weight = 41
   parent = "teaching"
 
 [[main]]
   name = "SE2203 Computer Architecture"
-  url = "CA"
-  weight = 42
+  url = "SE2203"
+  weight = 52
   parent = "teaching"
 
 [[main]]
   name = "EE5182 Microcontrollers & Embedded Systems (KDU)"
   url = "EE5182"
-  weight = 43
+  weight = 61
   parent = "teaching"
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 50
+  weight = 90
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
