@@ -63,6 +63,12 @@
   parent = "teaching"
 
 [[main]]
+  name = "ET2223 Microprocessors, Microcontrollers, and Embedded Systems (KDU)"
+  url = "ET2223"
+  weight = 62
+  parent = "teaching"
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 90
