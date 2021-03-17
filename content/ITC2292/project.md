@@ -7,7 +7,7 @@ type: docs
 draft: false
 menu:
   teaching:
-    parent: ICTC3105
+    parent: ITC2292
     weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)

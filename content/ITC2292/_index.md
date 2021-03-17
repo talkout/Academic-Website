@@ -2,14 +2,14 @@
 # Course title, summary, and position.
 linktitle: ITC 2292
 summary: Digital Control Systems Technology
-weight: 1
+weight: 22
 
 # Page metadata.
 title: ITC 2292 Digital Control Systems Technology
 #date: "2018-09-09T00:00:00Z"
 lastmod: "2021-03-18T00:30:00Z"
 draft: false  # Is this a draft? true/false
-toc: true  # Show table of contents? true/false
+toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
 
 # Add menu entry to sidebar.
@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 menu:
   teaching:
     name: ITC2292
-    weight: 1
+    weight: 22
 ---
 
 ## Course Information
