@@ -25,7 +25,7 @@ The selection of a particular project should be bound by available resources and
 The list of available tools as listed in this [parts list](https://drive.google.com/file/d/1DcfyY0i6zOWGFRepfzSvQzuEUt4NVLFL/view?usp=sharing). If you require any additional components, you will have to discuss that with the lecturer.
 
 ## Project Groups
-You may check of this page and verify [your group selections](https://docs.google.com/spreadsheets/d/e/2PACX-1vQHzENmYbbL2wanavVyk-n8cqKGkooyKLTyDUk7R6MerJqBUURedgWMcZUL5zDg6GBHzEiWZXKrmVtH/pubhtml?gid=0&single=true). If your index number is listed with a "No Group" that means you did not provide your index number with you name lists or you did not send a group selection at all. If you are not assigned a group, please contact me immediately via nimal@sjp.ac.lk.
+You may check of this page and verify [your group selections](). If your index number is listed with a "No Group" that means you did not provide your index number with you name lists or you did not send a group selection at all. If you are not assigned a group, please contact me immediately via nimal@sjp.ac.lk.
 
 ## Preliminary Project Proposal
 You are required to submit a preliminary project proposal to screen for suitability of the project against the course requirements. You are advised to adhere to the format below:
