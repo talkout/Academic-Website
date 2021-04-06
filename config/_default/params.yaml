@@ -59,7 +59,7 @@ appointment_url: 'https://calendar.google.com/calendar/selfsched?sstoken=UU5QSk5
 
 main_menu:
   enable: true
-  align: l
+  align: 2
   show_logo: true
   show_language: false
   show_day_night: true
