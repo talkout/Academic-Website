@@ -95,23 +95,23 @@ phone = "+94 76 980 4524"
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/talkout"},
-  # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+  # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:nimalaprakasan"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  {icon = "whatsapp", icon_pack = "fab", name = "WhatsApp Me", link = "https://wa.me/94769804524?text=Re%20course%20name"},
+  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@nimalaprakasan"},
+  # {icon = "whatsapp", icon_pack = "fab", name = "WhatsApp Me", link = "https://wa.me/94769804524?text=Re%20course%20name"},
   ]
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Department of Information and Communication Technology, <br/>Faculty of Technology, <br/>University of Sri Jayawardenepura", city = "Nugegoda", region = "", postcode = "10350", country = "Sri Lanka", country_code = "LK"}
+address = {street = "Department of Information and Communication Technology, <br/>Faculty of Technology, <br/>University of Sri Jayawardenepura", city = "Pitipana", region = "Homagama", postcode = "10206", country = "Sri Lanka", country_code = "LK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-# coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "6.823217461205396", longitude = "80.04218034024564"}, 
 
 # Directions for visitors to locate you.
-# directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
+# directions = "Academic Building, Floor 4"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
