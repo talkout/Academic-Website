@@ -108,7 +108,7 @@ address = {street = "Department of Information and Communication Technology, <br
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "6.823217461205396", longitude = "80.04218034024564"}, 
+coordinates = {latitude = "6.823217461205396", longitude = "80.04218034024564"}
 
 # Directions for visitors to locate you.
 # directions = "Academic Building, Floor 4"
@@ -285,6 +285,13 @@ plugins_js  = []
 ############################
 ## Content Management System
 ############################
+# PLACE THIS NEW [CMS] CONFIG SECTION AT THE END OF THE FILE
+  
+# Content Management System
 [cms]
-  # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
-  netlify_cms = true
+ # Enable the admin panel. See https://wowchemy.com/docs/install/
+ netlify_cms = true
+  
+# Icon Pack Extensions
+[icon.pack]
+ ai = true  # Enable the Academicons icon pack https://jpswalsh.github.io/academicons/
