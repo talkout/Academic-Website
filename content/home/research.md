@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 16
+weight: 10
 
 title: Research
 subtitle: Projects & Supervision
