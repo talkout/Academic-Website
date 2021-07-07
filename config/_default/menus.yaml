@@ -55,6 +55,9 @@ main:
     url: 'EE2222'
     weight: 63
     parent: 'teaching'
+  - name: Research
+    url: '#research'
+    weight: 80
   - name: Contact
     url: '#contact'
     weight: 90
