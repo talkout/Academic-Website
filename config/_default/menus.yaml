@@ -11,6 +11,10 @@ main:
     url: '#teaching'
     weight: 20
     identifier: teaching
+  - name: ITN 4252 Advanced Topics in Networking
+    url: 'ITN4252'
+    weight: 27
+    parent: 'teaching'
   - name: ITC 2272 Operating Systems
     url: 'ITC2272'
     weight: 21
