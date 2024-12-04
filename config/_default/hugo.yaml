@@ -62,5 +62,3 @@ import:
 params:
   gravatar:
     default: mp
-
-	{{ partial "gravatar/avatar-hash" "f927a0630326b30c92ad83e223f5f79b" }}
