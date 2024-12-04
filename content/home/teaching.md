@@ -28,23 +28,20 @@ design:
     # padding: ["20px", "0", "20px", "0"]
 ---
 
-**Undergraduate Courses - Faculty of Technology, USJ**
+**Undergraduate Courses**
 
-- Operating Systems
+- Advanced Topics in Networking *
 - Digital Control Systems Technology
 - Advanced Networking
 - Distributed Networks
-- Audio Production Techniques
-
-**Undergraduate Courses - Visiting**
-
-- Computer Architecture
 - Platform Technologies
+- Operating Systems
+- Computer Architecture
 - Microcontrollers and Embedded Systems
 - Microprocessors, Microcontrollers and Embedded Systems
+- Audio Production Techniques
 
-**Postgraduate Courses - Visiting**
+**Postgraduate Courses**
 
 - Fundamentals of Security Technology
 - Cyber Security Threats and Countermeasures
-
