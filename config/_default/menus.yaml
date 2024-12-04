@@ -1,67 +1,27 @@
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#   desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
+  #     desired widget in your `content/home/` folder.
+  #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: '#about'
+  - name: Bio
+    url: /
     weight: 10
-  - name: Teaching
-    url: '#teaching'
+  - name: Papers
+    url: /#papers
+    weight: 11
+  - name: Talks
+    url: /#talks
+    weight: 12
+  - name: News
+    url: /#news
+    weight: 13
+  - name: Experience
+    url: experience/
     weight: 20
-    identifier: teaching
-  - name: ITN 4252 Advanced Topics in Networking
-    url: 'ITN4252'
-    weight: 27
-    parent: 'teaching'
-  - name: ITC 2272 Operating Systems
-    url: 'ITC2272'
-    weight: 21
-    parent: 'teaching'
-  - name: ITC 2292 Digital Control Systems Technology
-    url: 'ITC2292'
-    weight: 22
-    parent: 'teaching'
-  - name: ITN 3052 Advanced Networking
-    url: 'ITN3052'
-    weight: 23
-    parent: 'teaching'
-  - name: ITN 3162 Distributed Networks
-    url: 'ITN3162'
-    weight: 24
-    parent: 'teaching'
-  - name: ITM 3062 Audio Production Techniques
-    url: 'ITM3062'
-    weight: 25
-    parent: 'teaching'
-  - name: ITC 3093 Principles of Computer Security
-    url: 'ITC3093'
-    weight: 26
-    parent: 'teaching'
-  - name: ICTC3105.3 Platform Technologies (FHSS)
-    url: 'ICTC31053'
-    weight: 41
-    parent: 'teaching'
-  - name: SE2203 Computer Architecture
-    url: 'SE2203'
-    weight: 52
-    parent: 'teaching'
-  - name: EE5182 Microcontrollers and Embedded Systems (KDU)
-    url: 'EE5182'
-    weight: 61
-    parent: 'teaching'
-  - name: ET2223 Microprocessors, Microcontrollers, and Embedded Systems (KDU)
-    url: 'ET2223'
-    weight: 62
-    parent: 'teaching'
-  - name: EE2222 Computer Interfacing and Microprocessors (KDU)
-    url: 'EE2222'
-    weight: 63
-    parent: 'teaching'
-  - name: Research
-    url: '#research'
-    weight: 80
-  - name: Contact
-    url: '#contact'
-    weight: 90
+  - name: Projects
+    url: projects/
+    weight: 30
+  - name: Teaching
+    url: teaching/
+    weight: 40

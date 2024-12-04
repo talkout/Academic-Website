@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: blue #Options include blue, cyan, green, indigo, purple, red, rose, sky, teal, and zinc.
+  color: emerald
 
 # SEO
 marketing:
@@ -14,10 +14,10 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: ''
-    twitter: 'talkout'
+    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
+    twitter: 'GetResearchDev'
   analytics:
-    google_analytics: 'UA-4417216-5'
+    google_analytics: ''
     baidu_tongji: ''
     plausible: ''
     fathom: ''
@@ -43,7 +43,7 @@ footer:
     notice: '© {year} Me. This work is licensed under {license}'
     license:
       enable: true
-      allow_derivatives: true
+      allow_derivatives: false
       share_alike: true
       allow_commercial: false
 
