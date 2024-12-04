@@ -16,27 +16,27 @@ site_type: Person
 local_business_type: ''
 org_name: ''
 description: ''
-twitter: 'talkout'
+# twitter: 'talkout'
 
 # Contact (edit or remove options as required)
 
-email: nimal@sjp.ac.lk
-phone: +94 76 980 4524
-address:
-  street: Department of Information and Communication Technology, Faculty of Technology, University of Sri Jayawardenepura
-  city: Pitipana
-  region: Homagama
-  postcode: '10206'
-  country: Sri Lanka
-  country_code: LK
-coordinates:
-  latitude: '6.823217461205396'
-  longitude: '80.04218034024564'
-directions: Academic Building, Floor 4
-office_hours:
-  - 'Monday 13:00 to 15:00'
-  - 'Thursday 13:00 to 15:00'
-appointment_url: 'https://calendar.google.com/calendar/selfsched?sstoken=UU5QSk5qaEExZE5XfGRlZmF1bHR8MDg3Y2Q3NzZkNmE0ODdhZTYwNWViMTNlY2ZmYmQwZmM' # 'https://calendly.com'
+# email: nimal@sjp.ac.lk
+# phone: +94 76 980 4524
+# address:
+#   street: Department of Information and Communication Technology, Faculty of Technology, University of Sri Jayawardenepura
+#   city: Pitipana
+#   region: Homagama
+#   postcode: '10206'
+#   country: Sri Lanka
+#   country_code: LK
+# coordinates:
+ #  latitude: '6.823217461205396'
+#   longitude: '80.04218034024564'
+# directions: Academic Building, Floor 4
+# office_hours:
+ #  - 'Monday 13:00 to 15:00'
+ #  - 'Thursday 13:00 to 15:00'
+# appointment_url: 'https://calendar.google.com/calendar/selfsched?sstoken=UU5QSk5qaEExZE5XfGRlZmF1bHR8MDg3Y2Q3NzZkNmE0ODdhZTYwNWViMTNlY2ZmYmQwZmM' # 'https://calendly.com'
 # contact_links:
   # - icon: twitter
     # icon_pack: fab
