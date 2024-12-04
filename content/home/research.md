@@ -35,14 +35,13 @@ design:
 - The Role of Cyber Security in National Identity Management with Special Focus on Forensic and Blockchain
 - Use of Machine Learning Techniques for EEG-Based Fatigue Risk Reduction Through Brain Computer Interface
 
-**Current Projects**
-
-- Using GIS for Cultural Data Management: An Spatial Humanities Approach in the Sri Lankan Tamil Context
-- Prevention of DDoS Attacks Targeting Financial Services using Supervised Machine Learning and Stacked LSTM
-- Privacy Preserving National Electronic Identity Framework using Blockchain
-
 **Past Projects**
 
 - Integrated access control for smart buildings using building information models
+- Prevention of DDoS Attacks Targeting Financial Services using Supervised Machine Learning and Stacked LSTM
+- Using GIS for Cultural Data Management: An Spatial Humanities Approach in the Sri Lankan Tamil Context
+- Privacy Preserving National Electronic Identity Framework using Blockchain
 - Versatile Privacy Preserving Electronic Identity Framework
 
+**Current Projects**
+- to be updated
