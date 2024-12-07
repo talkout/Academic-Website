@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: ITC 2292
 summary: Digital Control Systems Technology
-weight: 22
+weight: 27
 
 # Page metadata.
 title: ITC 2292 Digital Control Systems Technology
@@ -18,7 +18,7 @@ type: docs  # Do not modify.
 menu:
   teaching:
     name: ITC2292
-    weight: 22
+    weight: 27
 ---
 
 ## Course Information

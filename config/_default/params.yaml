@@ -15,23 +15,24 @@ font_size: L
 site_type: Person
 local_business_type: ''
 org_name: ''
-description: ''
-# twitter: 'talkout'
+title: 'Nimal Skandhakumar - Academic Resources for Students' # Website name
+description: 'Explore comprehensive academic resources on networking and cyber security courses by Nimal Skandhakumar. '
+twitter: 'talkout'
 
 # Contact (edit or remove options as required)
 
 # email: nimal@sjp.ac.lk
 # phone: +94 76 980 4524
-# address:
-#   street: Department of Information and Communication Technology, Faculty of Technology, University of Sri Jayawardenepura
-#   city: Pitipana
-#   region: Homagama
-#   postcode: '10206'
-#   country: Sri Lanka
-#   country_code: LK
-# coordinates:
- #  latitude: '6.823217461205396'
-#   longitude: '80.04218034024564'
+address:
+  street: Department of Information and Communication Technology, Faculty of Technology, University of Sri Jayawardenepura
+  city: Pitipana
+  region: Homagama
+  postcode: '10206'
+  country: Sri Lanka
+  country_code: LK
+coordinates:
+  latitude: '6.823217461205396'
+  longitude: '80.04218034024564'
 # directions: Academic Building, Floor 4
 # office_hours:
  #  - 'Monday 13:00 to 15:00'
